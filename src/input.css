@@ -1,0 +1,11 @@
+ @font-face {
+    font-family:'Flareserif821 BT' ;
+    src: url(./fonts/Flareserif\ 821\ BT.ttf);
+ }
+
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
